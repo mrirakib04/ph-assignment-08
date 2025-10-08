@@ -8,7 +8,7 @@ const Home = () => {
       {/* Header and Stats */}
       <div className="w-full">
         {/* Header */}
-        <div className="w-full flex flex-col items-center gap-3 pt-10">
+        <div className="w-full flex flex-col items-center gap-3 pt-10 lg:px-12 md:px-8 px-5 ">
           <div className="flex items-center gap-3 flex-col text-center">
             <h1 className="xl:text-5xl lg:text-4xl md:text-3xl text-2xl font-bold text-gray-800">
               We Build <br />
@@ -47,10 +47,39 @@ const Home = () => {
           </div>
         </div>
         {/* Stats */}
-        <div className="w-full"></div>
+        <div className="w-full lg:py-10 md:py-8 py-6 bg-gradient-to-r from-indigo-900 to-purple-700 text-white text-center flex flex-col items-center gap-5">
+          <h2 className="lg:text-4xl md:text-3xl text-2xl font-bold">
+            Trusted by Millions, Built <br className="sm:hidden" /> for You
+          </h2>
+          <div className="flex flex-wrap gap-10 lg:justify-evenly justify-center w-full">
+            <div className="flex flex-col items-center gap-2">
+              <span className="md:text-xl text-lg">Total Downloads</span>
+              <p className="font-bold text-3xl md:text-4xl lg:text-5xl">
+                29.6M
+              </p>
+              <p className="font-extralight md:text-lg text-base">
+                21% more than last month
+              </p>
+            </div>
+            <div className="flex flex-col items-center gap-2">
+              <span className="md:text-xl text-lg">Total Reviews</span>
+              <p className="font-bold text-3xl md:text-4xl lg:text-5xl">906K</p>
+              <p className="font-extralight md:text-lg text-base">
+                46% more than last month
+              </p>
+            </div>
+            <div className="flex flex-col items-center gap-2">
+              <span className="md:text-xl text-lg">Active Apps</span>
+              <p className="font-bold text-3xl md:text-4xl lg:text-5xl">132+</p>
+              <p className="font-extralight md:text-lg text-base">
+                31 more will Launch
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
       {/* Carts */}
-      <div className="w-full"></div>
+      <div className="w-full lg:px-12 md:px-8 px-5"></div>
     </div>
   );
 };
