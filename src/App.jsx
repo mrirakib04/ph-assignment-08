@@ -5,9 +5,12 @@ import Footer from "./Shared/Footer";
 
 function App() {
   return (
-    <div className="flex flex-col items-center max-w-[1480px] mx-auto w-full">
+    <div className="flex flex-col items-center max-w-[1480px] mx-auto w-full h-screen">
       <Navbar></Navbar>
-      <Outlet></Outlet>
+      <div className="w-full py-10"></div>
+      <div className="flex-1">
+        <Outlet></Outlet>
+      </div>
       <Footer></Footer>
     </div>
   );
