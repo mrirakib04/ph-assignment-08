@@ -4,6 +4,7 @@ import Loader from "../Loader/Loader";
 import { Link } from "react-router";
 import { FaDownload, FaSearch, FaStar } from "react-icons/fa";
 import MainContext from "../../Context/MainContext";
+import nfImg from "./../../assets/App-Error.png";
 
 const AllApps = () => {
   const { dataLoader, setDataLoader } = useContext(MainContext);
@@ -56,7 +57,7 @@ const AllApps = () => {
       </div>
       {dataLoader ? (
         <Loader></Loader>
-      ) : (
+      ) : displayableData.length > 0 ? (
         <div className="w-full grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-5 mt-5">
           {displayableData.map((app) => (
             <Link
@@ -82,6 +83,19 @@ const AllApps = () => {
               </div>
             </Link>
           ))}
+        </div>
+      ) : (
+        <div className="px-6 flex flex-col items-center gap-2 w-full py-20 text-center">
+          <div className="max-w-3xl mx-auto">
+            <img className="w-full" src={nfImg} alt="error-image" />
+          </div>
+          <h4 className="lg:text-4xl md:text-3xl text-2xl font-bold text-gray-900">
+            Oops, app not found!!!
+          </h4>
+          <p className="text-gray-600">
+            The App you are requesting is not found on our system. please try
+            another apps
+          </p>
         </div>
       )}
     </div>
