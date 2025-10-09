@@ -62,7 +62,7 @@ const Downloads = () => {
           sortedApps.map((app) => (
             <div
               key={app.id}
-              className="flex items-center gap-5 justify-between w-full p-3 bg-white rounded-xl shadow-lg"
+              className="flex items-center gap-5 justify-between w-full p-3 bg-white rounded-xl shadow-lg flex-wrap"
             >
               <div className="flex items-center gap-3">
                 <Link to={`/app/${app.id}`}>
