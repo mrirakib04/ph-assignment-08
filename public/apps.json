@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://i.ibb.co.com/D2PDvS6/1.jpg",
+    "title": "Chillify Music",
+    "companyName": "Harmony Labs",
+    "id": 1,
+    "description": "Chillify Music brings millions of tracks and podcasts right to your device. Discover new artists, create personalized playlists, and enjoy ad-free streaming. With offline playback and smart recommendations, it’s the perfect companion for your daily rhythm.",
+    "size": 85,
+    "reviews": 12345,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 8965 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MxqgHqgz/2.png",
+    "title": "TaskMate Pro",
+    "companyName": "BrightPixel",
+    "id": 2,
+    "description": "TaskMate Pro is your all-in-one productivity assistant. Organize daily tasks, set goals, and track progress visually. Whether you work solo or in a team, its smart reminders and collaboration features help you stay on top of everything efficiently.",
+    "size": 72,
+    "reviews": 9340,
+    "ratingAvg": 4.4,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 7060 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/N6rWCL36/3.webp",
+    "title": "FitPulse Tracker",
+    "companyName": "ActiveCore Labs",
+    "id": 3,
+    "description": "FitPulse helps you maintain a healthy lifestyle with advanced fitness tracking. Monitor your workouts, steps, and calories in real time. With built-in AI-based insights and goal setting, you’ll stay motivated and achieve your health targets faster.",
+    "size": 95,
+    "reviews": 15400,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 12170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/078yg9t/4.jpg",
+    "title": "SnapGram",
+    "companyName": "MetaFusion",
+    "id": 4,
+    "description": "SnapGram is the ultimate photo-sharing platform for connecting with friends and fans. Capture your best moments, apply filters, and share stories instantly. With privacy controls and creative tools, express yourself safely and beautifully online.",
+    "size": 110,
+    "reviews": 34000,
+    "ratingAvg": 4.5,
+    "downloads": 3400000,
+    "ratings": [
+      { "name": "1 star", "count": 640 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 21360 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4GxKPBF/5.webp",
+    "title": "LearnHub",
+    "companyName": "Edutech Global",
+    "id": 5,
+    "description": "LearnHub is a modern learning app featuring online courses, tutorials, and quizzes. Master new skills from top instructors across various fields including coding, design, and business. Earn certificates and track your progress as you grow your career.",
+    "size": 130,
+    "reviews": 28900,
+    "ratingAvg": 4.7,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 670 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 18710 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8gDnC283/6.png",
+    "title": "GameOn Arena",
+    "companyName": "PixelStorm Studios",
+    "id": 6,
+    "description": "GameOn Arena brings an extensive library of cloud games straight to your device. Compete with global players, track achievements, and stream live gameplay. With no downloads or lag, it's the future of seamless mobile gaming.",
+    "size": 180,
+    "reviews": 45200,
+    "ratingAvg": 4.3,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 940 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 3400 },
+      { "name": "4 star", "count": 9800 },
+      { "name": "5 star", "count": 29760 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MD69d8HP/7.png",
+    "title": "Foodiez Delivery",
+    "companyName": "TastyTech",
+    "id": 7,
+    "description": "Foodiez connects you to your favorite restaurants in minutes. Order meals, track delivery, and enjoy exclusive discounts. With real-time tracking and contactless options, it’s the smartest and fastest way to satisfy your cravings anytime.",
+    "size": 90,
+    "reviews": 17800,
+    "ratingAvg": 4.6,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/3yCmWf1Z/8.webp",
+    "title": "MediCare+",
+    "companyName": "HealthSync Inc.",
+    "id": 8,
+    "description": "MediCare+ helps you manage your health easily with doctor consultations, prescriptions, and appointment scheduling. Track your medical records securely and access health tips anytime. Designed for convenience, privacy, and reliability.",
+    "size": 100,
+    "reviews": 8700,
+    "ratingAvg": 4.7,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/G4kxnxxr/9.png",
+    "title": "Travelly",
+    "companyName": "ExploreMore Co.",
+    "id": 9,
+    "description": "Travelly helps you explore destinations with curated travel guides, flight deals, and hotel bookings. Plan trips, track itineraries, and discover hidden gems. From weekend getaways to global adventures, Travelly makes your journeys seamless and memorable.",
+    "size": 120,
+    "reviews": 19700,
+    "ratingAvg": 4.5,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 12500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WWgyptYB/10.png",
+    "title": "ShopZone",
+    "companyName": "RetailX",
+    "id": 10,
+    "description": "ShopZone brings all your favorite brands to one place. Discover fashion, gadgets, and more with instant deals and free delivery. Secure payments, easy returns, and personalized recommendations make shopping effortless and enjoyable.",
+    "size": 150,
+    "reviews": 35000,
+    "ratingAvg": 4.4,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 9700 },
+      { "name": "5 star", "count": 20300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SwtK9rBw/11.png",
+    "title": "StreamHub",
+    "companyName": "VisionCore Media",
+    "id": 11,
+    "description": "StreamHub offers an endless library of movies, series, and documentaries. Watch anywhere in HD, create watchlists, and get tailored suggestions. It's your entertainment universe—streaming made smarter, faster, and simpler.",
+    "size": 180,
+    "reviews": 49000,
+    "ratingAvg": 4.6,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 32600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4R79r4Pj/12.png",
+    "title": "NewsWave",
+    "companyName": "GlobalWire",
+    "id": 12,
+    "description": "NewsWave keeps you informed with real-time updates across politics, sports, and technology. Customize your feed, save articles, and receive breaking news alerts. With trusted sources and minimal ads, stay ahead of the world's stories.",
+    "size": 70,
+    "reviews": 12500,
+    "ratingAvg": 4.3,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 6600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ccmnX35m/13.png",
+    "title": "SafeBank Mobile",
+    "companyName": "FinSecure Ltd.",
+    "id": 13,
+    "description": "SafeBank offers quick and secure mobile banking. Transfer money, pay bills, and manage cards effortlessly. With biometric authentication and 24/7 support, it ensures financial control and peace of mind at your fingertips.",
+    "size": 95,
+    "reviews": 11000,
+    "ratingAvg": 4.8,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 7300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nMhqTX76/14.png",
+    "title": "WeatherWise",
+    "companyName": "SkyLogic",
+    "id": 14,
+    "description": "WeatherWise delivers hyperlocal forecasts with beautiful visuals. Get hourly updates, storm alerts, and long-term predictions. Whether you're planning a trip or your day, stay prepared with precise weather insights anytime, anywhere.",
+    "size": 60,
+    "reviews": 9700,
+    "ratingAvg": 4.4,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5180 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jv3Ty9YK/15.jpg",
+    "title": "NoteSync",
+    "companyName": "DataSoft",
+    "id": 15,
+    "description": "NoteSync helps you capture and sync notes across all your devices. Create to-do lists, save images, and access your data offline. Its clean design and cloud backup make productivity smoother and more reliable.",
+    "size": 55,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 5050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Mkc9XQQb/16.jpg",
+    "title": "CleanMax Booster",
+    "companyName": "SystemCare",
+    "id": 16,
+    "description": "CleanMax Booster improves phone performance by removing junk, freeing RAM, and optimizing battery. With one-tap cleaning, app lock, and smart cooling features, it keeps your device fast, secure, and efficient all day long.",
+    "size": 40,
+    "reviews": 15400,
+    "ratingAvg": 4.6,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  }
+]
