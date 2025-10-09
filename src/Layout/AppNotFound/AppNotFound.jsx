@@ -1,3 +1,4 @@
+import { Link } from "react-router";
 import nfImg from "./../../assets/App-Error.png";
 
 const AppNotFound = () => {
