@@ -6,7 +6,7 @@ const Loader = () => {
       <img
         src={logoLoader}
         alt="logoLoader"
-        className="h-20 w-20 animate-spin"
+        className="h-20 w-20 animate-spin mx-auto"
       />
     </div>
   );
